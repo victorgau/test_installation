@@ -1,2 +1,4 @@
-# test_installation
-測試一下是否可以正確執行 Python 程式
+# 測試Python安裝狀況
+
+這個 Repo 裡面的檔案主要用來測試大家 Anaconda 跟 Visual Studio Code 的安裝狀況！
+
