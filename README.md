@@ -10,3 +10,9 @@ Jupyter Lab 上面的執行，會類似底下這個連結裡面的樣子！
 https://mybinder.org/v2/gh/victorgau/test_installation/master?filepath=Jupyter%20%E6%B8%AC%E8%A9%A6.ipynb
 
 我會再錄製影片說明！
+
+Google Colab 的網址在：
+
+https://colab.research.google.com
+
+可以點擊玩玩看！
