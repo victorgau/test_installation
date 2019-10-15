@@ -11,6 +11,10 @@ https://mybinder.org/v2/gh/victorgau/test_installation/master?filepath=Jupyter%2
 
 我會再錄製影片說明！
 
+Dr. Fernando Perez 的 keynote 關於 colaboratory 的部分：
+
+https://youtu.be/ZD5n9s8PGtI?t=2571
+
 Google Colab 的網址在：
 
 https://colab.research.google.com
